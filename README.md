@@ -104,22 +104,14 @@ A Java based Calendar Application that connects to the Flask Backend, providing 
     - The generated APK will be located in the `app/build/outputs/apk/debug` directory.
 
 ## Snapshots
-![LogIn Page](![image](https://github.com/user-attachments/assets/1a840f42-960f-4159-982b-5ca0a554c271)
-)
-![Register Page](![image](https://github.com/user-attachments/assets/4aa60f19-7c45-40cd-8726-3aa169b4cdac)
-)
-![Day View](![image](https://github.com/user-attachments/assets/2644369c-650a-4d11-890c-63f753bfe2a2)
-)
-![Calendar View](![image](https://github.com/user-attachments/assets/d2d28408-9b29-4d53-8788-a3a7a627d6eb)
-)
-![Profile View](![image](https://github.com/user-attachments/assets/6907599c-dd8e-4c74-aca8-b806f589b8d1)
-)
-![Accounts Settings View](![image](https://github.com/user-attachments/assets/bed07b00-d117-4d88-bf3c-a185f63da000)
-)
-![Task View](![image](https://github.com/user-attachments/assets/2b7dc656-2de9-44e7-8b99-f8e817e11772)
-)
-![Add Task View](![image](https://github.com/user-attachments/assets/406ab9de-5fa2-400d-bae6-b9648aef87a1)
-)
+![LogIn Page](https://github.com/user-attachments/assets/1a840f42-960f-4159-982b-5ca0a554c271)
+![Register Page](https://github.com/user-attachments/assets/4aa60f19-7c45-40cd-8726-3aa169b4cdac)
+![Day View](https://github.com/user-attachments/assets/2644369c-650a-4d11-890c-63f753bfe2a2)
+![Calendar View](https://github.com/user-attachments/assets/d2d28408-9b29-4d53-8788-a3a7a627d6eb)
+![Profile View](https://github.com/user-attachments/assets/6907599c-dd8e-4c74-aca8-b806f589b8d1)
+![Accounts Settings View](https://github.com/user-attachments/assets/bed07b00-d117-4d88-bf3c-a185f63da000)
+![Task View](https://github.com/user-attachments/assets/2b7dc656-2de9-44e7-8b99-f8e817e11772)
+![Add Task View](https://github.com/user-attachments/assets/406ab9de-5fa2-400d-bae6-b9648aef87a1)
 
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/KWuNdweHWtk/0.jpg)](https://youtu.be/KWuNdweHWtk)
